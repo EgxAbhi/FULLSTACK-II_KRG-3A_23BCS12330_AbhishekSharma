@@ -1,0 +1,49 @@
+.page-wrapper {
+	min-height: 100vh;
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: linear-gradient(135deg, #f5f7ff 0%, #eaf4ff 100%);
+}
+
+.card {
+	width: min(90vw, 420px);
+	background-color: #ffffff;
+	border-radius: 14px;
+	box-shadow: 0 12px 30px rgba(24, 39, 75, 0.12);
+	padding: 2rem;
+	text-align: center;
+}
+
+.dashboard-card {
+	width: min(92vw, 560px);
+}
+
+.page-title {
+	font-size: 1.8rem;
+	color: #1f2937;
+	margin-bottom: 0.75rem;
+}
+
+.page-subtitle {
+	color: #4b5563;
+	font-size: 1rem;
+	margin-bottom: 1.5rem;
+}
+
+.primary-btn {
+	border: none;
+	border-radius: 10px;
+	padding: 0.7rem 1.3rem;
+	background-color: #2563eb;
+	color: #ffffff;
+	font-size: 1rem;
+	cursor: pointer;
+	
+}
+
+.primary-btn:hover {
+	background-color: #1d4ed8;
+	transform: translateY(-1px);
+}
