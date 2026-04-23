@@ -1,4 +1,4 @@
-# Cart Total Calculation Fix - COMPLETED ✅
+# Cart Total Calculation Fix - COMPLETED 
 
 ## Issues Fixed:
 - ✅ Final total now calculates subtotal + delivery fee instead of showing 0
